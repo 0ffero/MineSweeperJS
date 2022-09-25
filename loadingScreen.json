@@ -1,0 +1,271 @@
+{
+	"textures": [
+		{
+			"image": "loadingScreen",
+			"format": "RGBA8888",
+			"size": {
+				"w": 957,
+				"h": 1447
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgTile",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1,
+						"h": 1441
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1,
+						"h": 1441
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 1,
+						"h": 1441
+					}
+				},
+				{
+					"filename": "offeroLogo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 650,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 650,
+						"h": 100
+					},
+					"frame": {
+						"x": 10,
+						"y": 3,
+						"w": 650,
+						"h": 100
+					}
+				},
+				{
+					"filename": "iMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 10,
+						"y": 109,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "mMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 304,
+						"y": 109,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "nMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 10,
+						"y": 403,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "oMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 304,
+						"y": 403,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "eMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 10,
+						"y": 697,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "pMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 304,
+						"y": 697,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "rMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 10,
+						"y": 991,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "sMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 304,
+						"y": 991,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "tMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 666,
+						"y": 3,
+						"w": 288,
+						"h": 288
+					}
+				},
+				{
+					"filename": "wMine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 288
+					},
+					"frame": {
+						"x": 598,
+						"y": 297,
+						"w": 288,
+						"h": 288
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

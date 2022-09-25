@@ -1,0 +1,124 @@
+{
+	"textures": [
+		{
+			"image": "ui",
+			"format": "RGBA8888",
+			"size": {
+				"w": 983,
+				"h": 1077
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "winner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 662,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 662,
+						"h": 307
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 662,
+						"h": 307
+					}
+				},
+				{
+					"filename": "loser",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 577,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 577,
+						"h": 305
+					},
+					"frame": {
+						"x": 3,
+						"y": 316,
+						"w": 577,
+						"h": 305
+					}
+				},
+				{
+					"filename": "spinner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 446,
+						"h": 447
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 446,
+						"h": 447
+					},
+					"frame": {
+						"x": 3,
+						"y": 627,
+						"w": 446,
+						"h": 447
+					}
+				},
+				{
+					"filename": "newGameGrass",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 309,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 309,
+						"h": 94
+					},
+					"frame": {
+						"x": 671,
+						"y": 3,
+						"w": 309,
+						"h": 94
+					}
+				},
+				{
+					"filename": "newGameWater",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 309,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 309,
+						"h": 94
+					},
+					"frame": {
+						"x": 671,
+						"y": 103,
+						"w": 309,
+						"h": 94
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
